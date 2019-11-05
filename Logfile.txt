@@ -1,0 +1,6 @@
+Child process was terminated -1 
+Child process was terminated -1 
+Child process was terminated -1 
+Child process was terminated -1 
+Child process was terminated 3013 
+Child process was terminated -1 

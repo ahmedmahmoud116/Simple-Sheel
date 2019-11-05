@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1571097749 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Sheel/Shell/test.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1571172790 source:/media/ahmed/C8ACE66DACE6558A/Local Disk(E)/College projects/OS_Sheel/Shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<signal.h>
+
